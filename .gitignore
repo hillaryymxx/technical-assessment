@@ -1,0 +1,17 @@
+node_modules
+.next
+dist
+logs
+data/*.db
+data/*.db-journal
+data/*.db-shm
+data/*.db-wal
+coverage
+*.log
+.env
+.env.*
+!.env.example
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

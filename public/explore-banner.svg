@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="320" viewBox="0 0 1440 320" fill="none">
+  <rect width="1440" height="320" fill="#0C0B0A"/>
+  <path d="M0 240C240 180 480 280 720 220s480 40 720 20v60H0v-40z" fill="#141210"/>
+  <path d="M0 260h1440" stroke="#C9A962" stroke-opacity="0.2"/>
+  <text x="720" y="140" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="#F5F0E8" letter-spacing="8">EXPLORE</text>
+  <text x="720" y="190" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#8A8278" letter-spacing="4">CURATED LISTINGS</text>
+</svg>
